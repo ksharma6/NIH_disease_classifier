@@ -1,5 +1,8 @@
+#local files
 data/
+todo.md
 
+## Common python files
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
